@@ -1,1 +1,1 @@
-# internship
+# Educational practice
